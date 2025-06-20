@@ -17,10 +17,10 @@ Check out the live version here: [Pet-Friendly City Website](https://saurabhrawa
 
 Below are some screenshots showcasing key sections of the website:
 
-![Screenshot 1](images/Screenshot 2025-06-20 115813.png)
+![Screenshot 1](images/Screenshot%202025-06-20%20115813.png)
 *Homepage highlighting featured pet-friendly places.*
 
-![Screenshot 2](images/Screenshot 2025-06-20 115844.png)
+![Screenshot 2](images/Screenshot%202025-06-20%20115844.png)
 *Interactive map for finding pet-friendly spots.*
 
 ![Screenshot 3](images/Screenshot%202025-06-20%20115912.png)
